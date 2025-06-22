@@ -8,4 +8,4 @@ This is a fork of the icons repository for Lutris with a few fixes and changes.
 * Some missing icons have been added (Xbox, Ryujinx, etc).
 * Some icons have been changed out according to my personal preferences. For the symbolic (monochrome) icons, I tend to prefer having it be solid white/black (whereas some of Lutris's default icons have a few shades of gray).
 
-Of the new icons, many of them come from (or are derived from) [Dan Patrick's console logos collection](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions/9-2%20-%20Logo%20Image%20-%20Various%20Sega.jpg).
+Of the new icons, many of them come from (or are derived from) [Dan Patrick's console logos collection](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions/).
